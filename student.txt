@@ -1,0 +1,65 @@
+<html>
+
+	<head>
+		<title>October Batch Students</title>
+	</head>
+
+	<body>
+<h1>Student List </h1>
+
+
+<table border="6" width="100%">
+<tr>
+ 	<td>Student Name</td>
+	<td>Phone</td>
+	<td>Image</td>
+</tr>
+<tr>
+ 	<td>Hello Kitty</td>
+	<td>444-444-4444</td>
+	<td><img src="hellokittystudent.jpg" width="100px"></td>
+</tr>
+<tr>
+ 	<td>Kuromi</td>
+	<td>999-999-9999</td>
+	<td><img src="kuromi.jpg" width="100px"></img></td>
+</tr>
+
+</table>
+
+<div style="width:300px; height:300px; background:pink">
+
+<label style="color:purple">Username</label>
+<input placeholder="Username"></input>
+
+<label style="color:purple">Password</label>
+<input type="password" placeholder="Password"></input>
+
+<br>
+
+<button>Login</button><button>Forget Password</button>
+
+<br>
+
+<select>
+<option>Jelly</option>
+<option>Candy</option>
+
+
+</select>
+
+<input type="checkbox">Sweet</input>
+<input type="checkbox">Sour</input>
+
+<br>
+
+<input type="submit"></input>
+
+
+</div>
+
+<a href="landing page.html">Landing Page</a>
+	</body>
+
+	
+</html>
